@@ -7,7 +7,7 @@
     background :#c7c8c9;
     float: left;
     border : 1px solid #579191;
-    margin : 15px 10px;
+    margin : 10px 10px;
     border-radius :5px;
     text-align : center;
 }
@@ -25,4 +25,13 @@ img{
 }
 h3{
     color: #084687;
+}
+.details-btn{
+    width : 120px;
+    height : 40px;
+    border-radius: 5px;
+    background: #084687;
+    border: 1px solid white;
+    color : white;
+    cursor : pointer;
 }

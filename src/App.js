@@ -20,7 +20,7 @@ function App() {
           <Route path='/home'>
             <Home/>
           </Route>
-          <Route path='/country/:numericCode'>
+          <Route path='/countrydetails/:countryName'>
             <CountryDetail/>
           </Route>
           <Route path='*'>

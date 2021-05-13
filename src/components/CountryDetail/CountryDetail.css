@@ -1,0 +1,27 @@
+.display-country{
+    width : 1170px;
+    margin : 0px auto;
+}
+.single-country{
+    width : 400px;
+    background :#c7c8c9;
+    border : 1px solid #579191;
+    margin : 15px auto;
+    border-radius :5px;
+    text-align : center;
+}
+.country:hover{
+    background: #f2f5f5;
+    transition: 0.5s;
+}
+.single-flag-image{
+    width : 300px;
+    margin : 20px auto;
+}
+.single-flag{
+    width : 290px;
+    height : 190px;
+}
+h3{
+    color: #084687;
+}
